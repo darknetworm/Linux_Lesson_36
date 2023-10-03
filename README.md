@@ -14,3 +14,8 @@
 
 ### Проверка работоспособности стенда
 
+![office1](https://github.com/darknetworm/Linux_Lesson_36/assets/82410807/14bbadaa-b895-4a36-859e-7c0e5385f818)
+
+![office2](https://github.com/darknetworm/Linux_Lesson_36/assets/82410807/2cccbaa1-22d8-4217-b3e1-6c7d0dad0bba)
+
+![bond](https://github.com/darknetworm/Linux_Lesson_36/assets/82410807/5e722450-9c56-4419-bd8a-8af72ca4ccdc)
